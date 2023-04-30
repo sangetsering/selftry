@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>image</title>
+</head>
+<body>
+<h1> PHOTO </h1>
+<h3> Presenting Mr...</h3> 
+
+<img src="sangela.JPEG" alt="sangela.jpg" width="300" height="450">
+
+<p> Sange Tsering </p>
+ 
+ <br>                   <a href ="https://www.youtube.com/@sangetsering4749/about">Clik here-></a>
+
+</body>
+</html>
